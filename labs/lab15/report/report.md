@@ -16,7 +16,7 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: false # List of tables
+lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
